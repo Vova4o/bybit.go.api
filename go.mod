@@ -1,4 +1,4 @@
-module github.com/wuhewuhe/bybit.go.api
+module github.com/Vova4o/bybit.go.api
 
 go 1.21
 
